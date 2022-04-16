@@ -1,1 +1,1 @@
-// empty file for testing
+import './Observer/example';
