@@ -1,1 +1,2 @@
-import './Observer/example';
+// import './Observer/example';
+import './Mediator/example';
