@@ -10,6 +10,7 @@
     "sourceMap": true,
     "strict": true,
     "target": "ESNext",
+    "jsx": "react",
   },
   "include": [
     "./src/**/*"
