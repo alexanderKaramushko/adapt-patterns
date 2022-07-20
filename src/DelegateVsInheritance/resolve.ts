@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /* eslint-disable no-underscore-dangle */
 /* eslint-disable max-classes-per-file */
 /**
@@ -13,7 +14,7 @@ interface ParentModel {
 
 class Parent implements ParentModel {
 
-  /** Изменение названия value приведет к неправильной работе в дочернем классе Child */
+  /** Изменение названия value приведет к неправильной работе ТОЛЬКО в классе-делегаторе */
   private _value: unknown | null = null;
 
   changeSomeProperty(newValue: unknown): void {
