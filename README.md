@@ -1,4 +1,4 @@
-# Typescript patterns.
+# Javascript patterns.
 
-This repository contains the examples of typescript patterns
-which would be useful at developing the more type safe programs.
+This repository contains the examples of "come at handy" javascript patterns
+which would be useful at developing more safe programs.
