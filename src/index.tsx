@@ -1,8 +1,3 @@
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
+// file to test pattern via `import './index'`
 
-import { App } from './App';
-
-const mountNode = document.getElementById('app');
-
-ReactDOM.render(<App />, mountNode);
+import './specific/AbstractFactory/index';
