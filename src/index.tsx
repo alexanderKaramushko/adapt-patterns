@@ -3,3 +3,4 @@
 // import './specific/AbstractFactory/index';
 // import './specific/Builder';
 // import './specific/Prototype';
+// import './specific/Singleton';
