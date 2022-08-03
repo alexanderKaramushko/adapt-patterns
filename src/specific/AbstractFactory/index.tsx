@@ -6,12 +6,11 @@
 
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
+import { getMountNode } from '../../constants/mounting';
 
 import { App } from './App';
 import { LayoutFactory } from './interfaces';
 import { DesktopLayout } from './layouts';
-
-const mountNode = document.getElementById('app');
 
 let layoutFactory: LayoutFactory | null = null;
 
@@ -19,4 +18,4 @@ if (window.innerWidth > 1024) {
   layoutFactory = new DesktopLayout();
 }
 
-ReactDOM.render(<App layoutFactory={layoutFactory} />, mountNode);
+ReactDOM.render(<App layoutFactory={layoutFactory} />, getMountNode());

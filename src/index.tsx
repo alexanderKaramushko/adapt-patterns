@@ -8,3 +8,4 @@ import 'regenerator-runtime/runtime';
 // import './specific/Prototype';
 // import './specific/Singleton';
 // import './Adapter';
+// import './specific/Bridge';
