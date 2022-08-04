@@ -9,3 +9,4 @@ import 'regenerator-runtime/runtime';
 // import './specific/Singleton';
 // import './Adapter';
 // import './specific/Bridge';
+// import './specific/Composite';
