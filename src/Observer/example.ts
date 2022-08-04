@@ -3,6 +3,7 @@
  */
 
 import Observable from '.';
+import { Log, logToConsole, logToDOM } from '../utils';
 
 const observable = new Observable<Log>();
 
