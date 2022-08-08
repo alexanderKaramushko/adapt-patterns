@@ -10,3 +10,4 @@ import 'regenerator-runtime/runtime';
 // import './Adapter';
 // import './specific/Bridge';
 // import './specific/Composite';
+// import './Decorator';

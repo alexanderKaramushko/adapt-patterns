@@ -2,6 +2,8 @@
   "compilerOptions": {
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
     "module": "ESNext",
     "moduleResolution": "node",
     "noImplicitAny": true,
@@ -10,7 +12,6 @@
     "sourceMap": true,
     "strict": true,
     "target": "ESNext",
-    "jsx": "react",
   },
   "include": [
     "./src/**/*"
