@@ -11,3 +11,4 @@ import 'regenerator-runtime/runtime';
 // import './specific/Bridge';
 // import './specific/Composite';
 // import './Decorator';
+import './Facade';
