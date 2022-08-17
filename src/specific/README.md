@@ -1,2 +1,1 @@
-# Папка specific указывает на специфичность применимости содержащихся в ней паттернов на фронте.
-# Иными словами, данным паттернам сложно найти применимость на фронте.
+The Specific folder contains the patterns which can be rarely used in frontend but are worth mentioning.
