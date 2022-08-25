@@ -1,5 +1,5 @@
-// import 'core-js/stable';
-// import 'regenerator-runtime/runtime';
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
 
 // file to test pattern via `import './index'`
 
@@ -13,3 +13,4 @@
 // import './Decorator';
 // import './Facade';
 // import './specific/Flyweight';
+// import './Proxy';
