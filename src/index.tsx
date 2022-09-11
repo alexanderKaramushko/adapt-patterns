@@ -1,8 +1,6 @@
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
-// file to test pattern via `import './index'`
-
 // import './specific/AbstractFactory/index';
 // import './specific/Builder';
 // import './specific/Prototype';
@@ -14,3 +12,4 @@ import 'regenerator-runtime/runtime';
 // import './Facade';
 // import './specific/Flyweight';
 // import './Proxy';
+// import './specific/CoR';
