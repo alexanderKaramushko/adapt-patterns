@@ -13,3 +13,4 @@ import 'regenerator-runtime/runtime';
 // import './specific/Flyweight';
 // import './Proxy';
 // import './specific/CoR';
+// import './Command';
