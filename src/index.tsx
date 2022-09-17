@@ -15,3 +15,4 @@ import 'regenerator-runtime/runtime';
 // import './specific/CoR';
 // import './Command';
 // import './Iterator';
+// import './Strategy';
