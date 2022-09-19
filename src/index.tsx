@@ -16,3 +16,4 @@ import 'regenerator-runtime/runtime';
 // import './Command';
 // import './Iterator';
 // import './Strategy';
+// import './TemplateMethod';
