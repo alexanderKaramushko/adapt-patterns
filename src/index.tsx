@@ -17,3 +17,4 @@ import 'regenerator-runtime/runtime';
 // import './Iterator';
 // import './Strategy';
 // import './TemplateMethod';
+// import './specific/Visitor';
